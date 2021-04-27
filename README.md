@@ -25,11 +25,11 @@ Le code est factorisé dans app3.rb afin de pouvoir crer autant d'aversaires qu'
 
 ## Fabriqué avec
 
-* [Windows 10.css // WSL2 // Ubuntu] - Environnement
+* [Windows 10 // WSL2 // Ubuntu] - Environnement
 * [VS Code] - Editeur de textes
 
 
 
 ## Auteur
 
-* **laurent Mollard-Chaumette** _alias_ [MaxiApplePie](https://github.com/MaxiApplePie)
+* **Laurent Mollard-Chaumette** _alias_ [MaxiApplePie](https://github.com/MaxiApplePie)
