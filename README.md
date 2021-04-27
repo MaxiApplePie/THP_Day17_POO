@@ -20,7 +20,7 @@
 
 ## Infos
 
-Le code est factorisé dans app3.rb afin de pouvoir crer autant d'aversaires qu'on le souhaite.
+Le code est factorisé dans app3.rb afin de pouvoir créer autant d'aversaires qu'on le souhaite.
 
 
 ## Fabriqué avec
